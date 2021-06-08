@@ -48,7 +48,7 @@ ellipse(160, 410, 55, 55);
 
 }
 
-function Take_snapshot()
+function take_snapshot()
 {
     save('student_name.png');
  }
